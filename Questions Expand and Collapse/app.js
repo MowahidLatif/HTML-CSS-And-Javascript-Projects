@@ -1,22 +1,3 @@
-/*
-
-/* hide text 
-.question-text {
-  display: none;
-}
-.show-text .question-text {
-  display: block;
-}
-.minus-icon {
-  display: none;
-}
-.show-text .minus-icon {
-  display: inline;
-}
-.show-text .plus-icon {
-  display: none;
-}
-*/
 
 // const questionButtons = document.querySelectorAll(".question-btn");
 const question = document.querySelectorAll(".question");
