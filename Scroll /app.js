@@ -3,7 +3,6 @@
 // slice extracts a section of a string without modifying original string
 //offsetTop - A Number, representing the top position of the element, in pixels
 
-
 const myDate = document.getElementById("date");
 myDate.innerHTML = new Date().getFullYear();
 
